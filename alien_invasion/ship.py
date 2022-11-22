@@ -13,7 +13,7 @@ class Ship(Sprite):
         self.settings = settings
 
         # Carrega a imagem da espaçonave e obtém seu rect
-        self.image = pygame.image.load('images/ship.bmp')
+        self.image = pygame.image.load('alien_invasion/images/ship.bmp')
         self.rect = self.image.get_rect()
         self.screen_rect = screen.get_rect()
 

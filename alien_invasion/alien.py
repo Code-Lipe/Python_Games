@@ -11,7 +11,7 @@ class Alien(Sprite):
         self.settings = settings
 
         # Carrega a imgagem do alienígena e define seu atriburo rect
-        self.image = pygame.image.load('images/alien.bmp')
+        self.image = pygame.image.load('alien_invasion/images/alien.bmp')
         self.rect = self.image.get_rect()
 
         # Inicia cada novo alienígena próximo à parte superior esquerda da tela
