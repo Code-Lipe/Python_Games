@@ -1,0 +1,11 @@
+Como jogar.
+Movimentação: utilize as teclas de direção do teclado para se movimentar (para os lados)
+Atirar: utilize a telca space do seu teclado para disparar
+Para jogar, execute o arquivo alien_invasion.py 
+
+hub:
+O hub do jogo é composto pela quantidade de chances que você tem para jogar (as três naves)
+A pontução ao destruir as naves (ao lado superior direito)
+O número do lével em que você se encontra (abaixo da pontução)
+A pontução máxima fica localizada no meio da tela(a pontuação máxima será perdida ao fechar o game)
+Para sair do jogo é só usar a tecla 'q' ou apertar o 'x' na janela
